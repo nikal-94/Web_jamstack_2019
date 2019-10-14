@@ -3,5 +3,5 @@ title: git
 slug: git
 author: me
 price : 1000
-featuredImage: "../erdogan.png"
+featuredImage: ![image](https://i.imgur.com/Anz39vF.jpg)
 ---
