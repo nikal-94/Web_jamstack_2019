@@ -3,5 +3,5 @@ title: git
 slug: git
 author: me
 price : 1000
-featuredImage: "../images/apple.png"
+featuredImage: "https://i.imgur.com/GmzvZt1.png"
 ---
